@@ -13,4 +13,6 @@ The tools that are installed with this devcontainer are:
 * aws cli for interacting with AWS environment.
 
 # For Students
-If you are a student in the class you can create a new repository using this template. Once you've created a repository of your own replace the content of this file with the description or you project idea.
+Project Name: Food Finder
+Description: Web-app will ask you what type of alcohol and then check your current location when authorized, and check for bars nearby that serve this drink.
+Target Audience: Anybody over 21 (specifically people who love to drink)
