@@ -14,5 +14,5 @@ The tools that are installed with this devcontainer are:
 
 # For Students
 Project Name: Food Finder
-Description: Web-app will ask you what type of alcohol and then check your current location when authorized, and check for bars nearby that serve this drink.
-Target Audience: Anybody over 21 (specifically people who love to drink)
+* Description: Web-app will ask you what type of alcohol and then check your current location when authorized, and check for bars nearby that serve this drink.
+* Target Audience: Anybody over 21 (specifically people who love to drink)
